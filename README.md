@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=rheikun)
 <h3 align="center">Hi there! 👋 I'm Rheisan Firnandatama Rizky Satria</h3>
 <p align="center">
   <img src="https://i.imgur.com/gwCMbUx.gif" alt="GIF" width="450" height="auto" />
@@ -52,8 +53,6 @@ I'm passionate about **Data** and **Machine Learning**, always exploring new way
 ### 📶 GitHub Stats
 ![Rheisan GitHub stats](https://github-readme-stats.vercel.app/api?username=rheikun&theme=default&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rheikun&show_icons=true&locale=en&layout=compact)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rheikun)
 
 ---
 
