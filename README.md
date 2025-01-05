@@ -8,7 +8,7 @@ I'm passionate about **Data** and **Machine Learning**, always exploring new way
 
 - 🌱 Currently expanding my knowledge in **Machine Learning**.
 - ⚡ Fun fact: I'm most productive at night!
-- 📫 How to reach me: **rheisanfrs24@gmail.com**
+- 📫 How to reach me: **rheisanfrs@gmail.com**
 
 ---
 
