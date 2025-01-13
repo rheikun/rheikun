@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/gwCMbUx.gif" alt="GIF" width="450" height="auto" />
 </p>
 
-I'm passionate about **Data** and **Machine Learning**, always exploring new ways to turn data into actionable insights. Currently, I'm honing my skills in Machine Learning through the **Bangkit Academy** program. 
+I'm passionate about **Data** and **Machine Learning**, always exploring new ways to turn data into actionable insights. 
 
 - 🌱 Currently expanding my knowledge in **Machine Learning**.
 - ⚡ Fun fact: I'm most productive at night!
